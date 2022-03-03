@@ -1,9 +1,6 @@
-target/
-*.class
-*.jar
-*.war
-*.ear
-*.logs
-*.iml
+# Intellij
 .idea/
-.eclipse
+*.iml
+# Maven
+log/
+target/
